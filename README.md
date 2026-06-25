@@ -36,14 +36,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiteja8041&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja8041&layout=compact&theme=dark)
-
----
-
 📍 Telengana, India  
 
 📧 saiteja.8046@gmail.com
