@@ -37,5 +37,5 @@
 ---
 
 📍 Telengana, India  
-
+linkedin: https://www.linkedin.com/in/saiteja-vullenga-b7626b378/
 📧 saiteja.8046@gmail.com
